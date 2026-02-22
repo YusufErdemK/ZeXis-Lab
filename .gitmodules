@@ -1,3 +1,6 @@
 [submodule "zexis-tour"]
 	path = zexis-tour
 	url = https://github.com/YusufErdemK/zexis-tour
+[submodule "zexis-updater"]
+	path = zexis-updater
+	url = https://github.com/YusufErdemK/zexis-updater
