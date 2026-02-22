@@ -4,3 +4,6 @@
 [submodule "zexis-updater"]
 	path = zexis-updater
 	url = https://github.com/YusufErdemK/zexis-updater
+[submodule "zpp"]
+	path = zpp
+	url = https://github.com/YusufErdemK/zpp
