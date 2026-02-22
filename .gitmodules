@@ -7,3 +7,6 @@
 [submodule "zpp"]
 	path = zpp
 	url = https://github.com/YusufErdemK/zpp
+[submodule "hipelauncher"]
+	path = hipelauncher
+	url = https://github.com/YusufErdemK/hipelauncher
