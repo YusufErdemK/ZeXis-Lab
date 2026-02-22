@@ -1,0 +1,3 @@
+[submodule "zexis-tour"]
+	path = zexis-tour
+	url = https://github.com/YusufErdemK/zexis-tour
